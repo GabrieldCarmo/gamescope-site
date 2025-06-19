@@ -126,6 +126,7 @@ span {
 .card-texto p {
     font-size: 1.8rem;
     line-height: 1.8;
+    text-align: justify;
     color: var(--texto-escuro);
 }
 
